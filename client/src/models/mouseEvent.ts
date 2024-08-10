@@ -1,0 +1,1 @@
+export type mouseEvent = ({ pageX: number; pageY: number; target: { offsetLeft: number; offsetTop: number } });
